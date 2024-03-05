@@ -1,0 +1,4 @@
+3
+Russia; Taganrog; Petrovskaya street; 54
+Russia; Rostov-on-Don; Bolshaya Sadovaya street; 105/42
+Russia; Taganrog; Ploshad Mira; 7
