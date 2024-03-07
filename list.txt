@@ -1,4 +1,24 @@
-3
+23
+Russia; Taganrog; Grecheskaya street; 1
 Russia; Taganrog; Petrovskaya street; 54
 Russia; Rostov-on-Don; Bolshaya Sadovaya street; 105/42
 Russia; Taganrog; Ploshad Mira; 7
+Russia; Rostov-on-Don; Bolshaya Sadovaya street; 105
+Russia; Taganrog; Chekhov street; 69
+Russia; Taganrog; Frunze street; 12
+Russia; Rostov-on-Don; Krasnoarmeyskaya street; 147
+Russia; Rostov-on-Don; Gagarin square; 1
+Russia; Taganrog; Gorky street; 33
+Russia; Taganrog; Krasny Kotelshchik street; 5
+Russia; Taganrog; Lenin street; 25
+Russia; Rostov-on-Don; Nagibina avenue; 32
+Russia; Rostov-on-Don; Suvorova street; 19
+Russia; Taganrog; Mira street; 17
+Russia; Rostov-on-Don; Budennovsky avenue; 59
+Russia; Taganrog; Oktyabrskaya street; 8
+Russia; Rostov-on-Don; Lenina square; 2
+Russia; Taganrog; Petrovskaya street; 54
+Russia; Taganrog; Pushkin street; 11
+Russia; Rostov-on-Don; Teatralny alley; 4
+Russia; Rostov-on-Don; Voroshilovsky avenue; 18
+Russia; Taganrog; Sovetskaya street; 16
